@@ -9,6 +9,8 @@ Theme Toggle: Implement light/dark mode for a modern, user-friendly experience.
 Trending Project: AI chatbots are in high demand, making this a great portfolio piece.
 Enhanced Functionality: Master the art of adding file uploads and real-time interactions.
 
+live App- https://cool-creponne-387704.netlify.app/
+
 🚀 Features of this Gemini Chatbot
 
 ✅ Chat Functionality - Interact with the AI-powered chatbot
